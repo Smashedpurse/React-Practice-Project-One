@@ -1,7 +1,7 @@
 function App() {
   return (
     <>
-    React
+    React a new app
     </>
   );
 }
