@@ -1,4 +1,5 @@
 import { Article,Brand,Cta,Feature,Navbar } from "./components";
+import { Footer } from "./containers";
 
 function App() {
   return (
@@ -8,6 +9,7 @@ function App() {
     <Cta/>
     <Feature/>
     <Article/>
+    <Footer/>
     </>
   );
 }
