@@ -1,7 +1,13 @@
+import { Article,Brand,Cta,Feature,Navbar } from "./components";
+
 function App() {
   return (
     <>
-    React a new app
+    <Navbar/>
+    <Brand/>
+    <Cta/>
+    <Feature/>
+    <Article/>
     </>
   );
 }
