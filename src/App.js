@@ -1,6 +1,6 @@
 import { Brand, Cta, Navbar } from "./components";
 import {Footer,Blog,Features,Header,Possibility,WhatGPT3,} from "./containers";
-
+import './StylesApp.css'
 function App() {
   return (
     <>
