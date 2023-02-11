@@ -13,11 +13,15 @@
 }
 
 .gpt3__header-content h1 { 
-    font-family: var(--font-family);
+    font-family:var(--font-family);
+    font-style: normal;
     font-weight: 800;
-    font-size: 62px;
-    line-height: 75px;
-    letter-spacing: -0.04em;
+    font-size: 34px;
+    line-height: 45px;
+    background: linear-gradient(103.22deg, #AE67FA -13.86%, #F49867 99.55%), #FFFFFF;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
 }
 
 
