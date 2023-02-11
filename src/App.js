@@ -11,7 +11,6 @@ function App() {
         </div>
         <Brand/>
         <WhatGPT3/>
-        <WhatGPT3/>
         <Features/>
         <Possibility/>
         <Cta/>
