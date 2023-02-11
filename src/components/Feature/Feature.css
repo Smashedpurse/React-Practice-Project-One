@@ -35,6 +35,7 @@
     flex: 2;
     max-width: 390px;
     display: flex;
+    color: var(--color-text);
 }
 
 .gpt3__features-container_feature-text p {
@@ -42,8 +43,8 @@
     font-weight: 500;
     font-size: 14px;
     line-height: 24px;
-    color: var(--color-text);
-}
+    
+} 
 
 @media screen and (max-width: 550px) {
     .gpt3__features-container__feature-title h1 {
